@@ -1,0 +1,13 @@
+.vscode
+Process/%USERPROFILE%/.pyenv
+Utils/bin
+Utils/obj
+
+WebApi/bin
+WebApi/obj
+
+Worker/bin
+Worker/obj
+
+
+
